@@ -22,7 +22,7 @@ M.default = {
   blue2 = "#ffff00",
   blue5 = "#ff0000", --89ddff--b4f9f8
   blue6 = "#ff00ff",
-  blue7 = "#ff0000",
+  blue7 = "#ffff00",
   magenta = "#ff0000",
   magenta2 = "#ff0000",
   purple = "#ff0000",
@@ -31,7 +31,7 @@ M.default = {
   green = "#ff0000",
   green1 = "#ff0000",
   green2 = "#ff0000",
-  teal = "#ff0000",
+  teal = "#ffff00",
   red = "#ff0000",
   red1 = "#ff0000",
   git = { change = "#6183bb", add = "#449dab", delete = "#914c54" },
